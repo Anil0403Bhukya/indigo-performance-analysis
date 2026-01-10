@@ -4,7 +4,7 @@
 This project analyzes the market dominance and operational resilience of **IndiGo Airlines**. By integrating financial, operational, and competitor data, this dashboard visualizes how IndiGo maintains a ~65% market share in a highly volatile industry.
 
 ## 🖼️ Dashboard Preview
-![IndiGo Analysis Dashboard](IndiGo_Dashboard_Final)
+![IndiGo Analysis Dashboard](IndiGo_Dashboard_Final.png.png)
 
 ## 🎯 Key Business Questions Answered
 1. **Market Growth:** How did IndiGo scale from 38% to 65% market share over 10 years?
